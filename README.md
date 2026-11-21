@@ -137,7 +137,7 @@ The available dataset does not include marketing expenditure or detailed custome
 |---|---|
 | Excel Dataset | [BrightCart Web traffic dataset ](https://github.com/ALLIANCEMARIE/Brightcart-Online-Retail-Analysis/blob/696c3593d3f5274b4554de5c6c7f47360fe47370/Brightcart%20web%20traffic%20dataset.xlsx) |
 | Tableau Workbook | [BrightCart online Retail Tableau Workbook](https://github.com/ALLIANCEMARIE/Brightcart-Online-Retail-Analysis/blob/6b685b396be5ede11388ec1583a60f696623be64/Bright%20Online%20Retail%20Tableau%20Workbook.twbxx) |
-| Dashboard Screenshots | Available in the [Image] (https://github.com/ALLIANCEMARIE/Brightcart-Online-Retail-Analysis/tree/e6285c8e1d15b21a0e668ffae9ad6fc83dc577f1/Image(Brightcart%20Dashboard))/ folder |
+| Dashboard Screenshots | Available in the [Image folder] (https://github.com/ALLIANCEMARIE/Brightcart-Online-Retail-Analysis/tree/e6285c8e1d15b21a0e668ffae9ad6fc83dc577f1/Image(Brightcart%20Dashboard)) |
 
 ---
 
