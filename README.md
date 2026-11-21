@@ -135,7 +135,7 @@ The available dataset does not include marketing expenditure or detailed custome
 
 | Deliverable | File |
 |---|---|
-| Excel Dataset | `brightcart_web_traffic_dataset.xlsx` |
+| Excel Dataset | `https://github.com/ALLIANCEMARIE/Brightcart-Online-Retail-Analysis/blob/696c3593d3f5274b4554de5c6c7f47360fe47370/Brightcart%20web%20traffic%20dataset.xlsx` |
 | Tableau Workbook | `brightcart_online_retail_dashboard.twbx` |
 | Dashboard Screenshots | Available in the `images/` folder |
 
