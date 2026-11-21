@@ -13,7 +13,7 @@ This dashboard provides an overview of website performance, including new and re
 
 ### Dashboard 2: Top Performers – Traffic & Engagement Patterns
 
-![BrightCart Top Performers Dashboard](images/dashboard_2_top_performers.png)
+![image alt](https://github.com/ALLIANCEMARIE/Brightcart-Online-Retail-Analysis/blob/aeb09f42b1218b30cf73c39e3ab257f84b3f6494/Image(Brightcart%20Dashboard)/Brightcart%20Dashboard%202%20(Top%20Performers).png)
 
 This dashboard explores page performance and traffic distribution across different days and hours, helping identify high- and low-engagement periods.
 
@@ -84,22 +84,24 @@ The project followed a structured analytical workflow:
 The analysis highlighted several important patterns:
 
 **1. Device Usage**
-- Mobile devices accounted for 55% of returning users in the displayed dashboard view.
-- Desktop accounted for 40%, while tablets represented only 5%.
+- Users predominantly access the platform through desktops and mobile phones, with a significantly lower usage on tablets
 
-**2. Traffic Sources**
+**2. Monthly Trend**
+- We notice a decline in user engagement during the last quarter of the year, specifically in October, November, and December, for both 2023 and 2024. This trend could be attributed to various factors, including holidays, vacations, serious competition during that particular season or end-of-year routines.
+
+**3. Traffic Sources**
 - Organic Search and Direct Traffic emerged as the leading sources of user engagement in the project analysis.
 - Referral and Social Media also contributed to website traffic.
 
-**3. Page Performance**
+**4. Page Performance**
 - The `/order-confirmation` page recorded the highest unique page views, users, and conversions in the reported analysis, although its performance declined in 2024.
 
-**4. Traffic Timing**
+**5. Traffic Timing**
 - Sundays and Mondays showed strong page-view activity.
 - Wednesday at 7 AM recorded the highest reported average page views (12).
 - Friday at 4 AM and Saturday at 3 PM recorded some of the lowest engagement levels (2 average page views each).
 
-**5. Geographical Distribution**
+**6. Geographical Distribution**
 - Canada led in users and conversions in 2022 and 2023.
 - The UK emerged as the leading country in 2024, with Scotland identified as its top-performing state.
 
@@ -108,6 +110,7 @@ The analysis highlighted several important patterns:
 Based on the findings, the following actions are recommended:
 
 - **Device Optimization:** Prioritize mobile and desktop user experiences while identifying opportunities to improve tablet engagement.
+- **Monthly Trend:** To address the decline in user engagement during the last quarter, updating landing pages, publishing timely guides, and maximizing campaigns during this period
 - **Marketing Strategy:** Strengthen organic search performance through keyword research, SEO improvements, and website optimization.
 - **Traffic Scheduling:** Align promotional campaigns and website updates with observed high-engagement periods.
 - **Customer Experience:** Review high-performing landing and confirmation pages, gather user feedback, and conduct A/B testing to identify improvement opportunities.
@@ -146,4 +149,4 @@ By examining traffic sources, user behaviour, device preferences, geographical d
 
 **The ultimate goal is not simply to attract more visitors, but to understand their behaviour and turn website engagement into meaningful business outcomes.**
 
-https://github.com/ALLIANCEMARIE/Brightcart-Online-Retail-Analysis/blob/e5f5a56ef095dbedf7314748284cae4c5ab731f6/Image(Brightcart%20Dashboard)/Brightcart%20Dashboard%201%20(Cockpit).png
+
